@@ -14,23 +14,23 @@ Este repositorio contiene las soluciones a los laboratorios de las Secciones 1 a
 El código está organizado en carpetas según la sección correspondiente de la guía:
 
 ```text
-fundamentos_python/
-│
-├── README.md
+Fundamentos_python/
 └── src/
-    ├── seccion1/
-    │   ├── S1.py
-    │   ├── S2.py
-    │   └── S3.py
-    ├── seccion2/
-    │   └── S1.py
-    ├── seccion3/
-    │   ├── S1.py
-    └── seccion4/
-        ├── Algoritmos.py
-        ├── S1.py
-        ├── S2.py
-        └── S3.py
+    ├── Seccion1/
+    │   ├── 01_hola_mundo.py            # LAB Trabajando con la función print()
+    │   ├── 02_argumentos_print.py       # LAB La función print() y sus argumentos
+    │   └── 03_formato_salida.py         # LAB Dando formato a la salida
+    ├── Seccion2/
+    │   └── 01_literales_cadenas.py      # LAB Literales de Python - Cadenas
+    ├── Seccion3/
+    │   └── 01_calculadora.py            # Ejercicios de Operadores Matemáticos
+    └── Seccion4/
+        ├── 01_variables.py              # LAB Variables
+        ├── 02_convertidor.py            # LAB Variables: un convertidor simple
+        ├── 03_operadores_expresiones.py # LAB Operadores y expresiones
+        └── 04_algoritmos.py             # Algoritmos de la sección
+├── .gitignore
+└── README.md
 Documentación de Ejercicios de Operadores Matemáticos
 A continuación se detalla la evaluación manual y la explicación paso a paso de las expresiones matemáticas propuestas.
 
